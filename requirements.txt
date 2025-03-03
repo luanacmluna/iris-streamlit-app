@@ -1,7 +1,7 @@
-pandas
+streamlit
 scikit-learn
 numpy
+pandas
 seaborn
 matplotlib
-streamlit
 pickle
